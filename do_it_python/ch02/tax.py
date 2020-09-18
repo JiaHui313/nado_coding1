@@ -19,4 +19,4 @@ def service_price():
             result = 67
     print(round(result, 1), '만원입니다.')
 
-service_price()
+service_price() 
